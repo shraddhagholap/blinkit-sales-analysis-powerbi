@@ -1,4 +1,4 @@
-# blinkit-sales-analysis-powerbi
+# Blinkit Sales Analysis Dashboard | Power BI
 End-to-end Power BI project analyzing Blinkit's retail sales data, delivering actionable insights on revenue, product performance, and customer trends through interactive dashboards
 # 🛒 Blinkit Sales Analytics Dashboard | Power BI
 
